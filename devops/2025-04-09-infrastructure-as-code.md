@@ -25,9 +25,8 @@ function exampleFunction(param1, param2) {
   return result;
 }
 
-// Example usage
-const result = exampleFunction(10, 20);
-console.log(`The result is: `);
+/** Example usage
+
 ```
 
 ## Resources
